@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/dove.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "flying dove image in the nature";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hangman website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a simple game where user guesses the correct letters for a given word within fixed number of times. ",
+    url: "https://anusha-321.github.io/hangman/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Depth first search",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a searching method where we traverse the node in depth.",
+    url: "https://anusha-321.github.io/depth_first_search/",
   },
   {
-    title: "My Resume Site",
+    title: "Setter and getter website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Getters and setters are used to protect your data, particularly when creating classes.",
+    url: "https://anusha-321.github.io/setterandgetter/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "For more information you can view my linked in profile .",
+    url: "https://www.linkedin.com/in/anusha-shrestha-75295a206/",
   },
 ];
 
