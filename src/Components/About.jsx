@@ -24,7 +24,7 @@ const imageAltText = "simple and beautiful background of room";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a student at Academia International College.I enjoy learning new things.";
+  "I'm a student at Academia International College.I love learning new things.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,

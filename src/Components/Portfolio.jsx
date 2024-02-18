@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/dove.jpg";
 
-const imageAltText = "flying dove image in the nature";
+const imageAltText = "flying bird image in the nature";
 
 /**
  * Project list

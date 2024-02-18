@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/mountains.jpg";
 
-const imageAltText = "Anusha Shrestha - Web Developer and Designer. This is a background picture of the great majestic mountains up in nortside.";
+const imageAltText = "Anusha Shrestha - Web Developer and Designer. This is a background picture of the great majestic mountains up north.";
 
 const Home = ({ name, title }) => {
   return (
